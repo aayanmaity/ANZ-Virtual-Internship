@@ -4,7 +4,7 @@ Repository for all the code and reports for Data Analytics Virtual Internship Pr
 
 # Project Details 
 
-## Project : 
+## Project: 
 
 Exploratory data analysis and prediction of annual salary for customers from the dataset provided by ANZ.
 
@@ -16,22 +16,22 @@ The dataset is designed to simulate realistic transaction behaviours that are ob
 
 ## Tools used:
 
-For data wrangling and visualization: NumPy, Pandas, Matplotlib, Seaborn
+*For data wrangling and visualization:* NumPy, Pandas, Matplotlib, Seaborn
 
-For predictive analytics: scikit-learn
+*For predictive analytics:* scikit-learn
 
-For Reporting: Google slides
+*For Reporting:* Google slides
 
 ## Tasks: 
 
-Task 1: Segmenting the dataset and drawing unique insights, including visualisation of the transaction volume and assessing the effect of any outliers. 
+*Task 1:* Segmenting the dataset and drawing unique insights, including visualisation of the transaction volume and assessing the effect of any outliers. 
 
-Task 2: Exploring correlations between customer attributes, building a regression and a decision-tree prediction model based on your findings
+*Task 2:* Exploring correlations between customer attributes, building a regression and a decision-tree prediction model based on your findings
 
 ## Reports:
 
-Task 1: 
+*Task 1:* 
 
-Task 2:
+*Task 2:*
 
 ##

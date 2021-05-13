@@ -34,7 +34,7 @@ The dataset is designed to simulate realistic transaction behaviours that are ob
 
 ## Reports:
 
-**Task 1:** [Exploratory Data Analysis Report](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Reports/Exploratory%20Data%20Analysis%20Report.pptx/blob/master/LICENSE)
+**Task 1:** [Exploratory Data Analysis Report](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Reports/Exploratory%20Data%20Analysis%20Report.pptx)
 
-**Task 2:** [Predictive Analytics Report](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Reports/Predictive%20Analytics%20Report.pptx/blob/master/LICENSE)
+**Task 2:** [Predictive Analytics Report](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Reports/Predictive%20Analytics%20Report.pptx)
 

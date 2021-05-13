@@ -26,11 +26,11 @@ The dataset is designed to simulate realistic transaction behaviours that are ob
 
 **Task 1:** Segmenting the dataset and drawing unique insights, including visualisation of the transaction volume and assessing the effect of any outliers. 
 
-[Exploratory Data Analysis](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Exploratory%20Data%20Analysis.ipynb/blob/master/LICENSE)
+[Exploratory Data Analysis](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Exploratory%20Data%20Analysis.ipynb)
 
 **Task 2:** Exploring correlations between customer attributes, building a regression and a decision-tree prediction model based on your findings.
 
-[Predictive Analytics](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Predictive%20Analytics.ipynb/blob/master/LICENSE)
+[Predictive Analytics](https://github.com/aayanmaity/ANZ-Virtual-Internship/blob/main/Predictive%20Analytics.ipynb)
 
 ## Reports:
 
